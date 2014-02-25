@@ -1,0 +1,25 @@
+D:\mobile\phonegap\hairsalon\platforms\android\ant-build\HelloCordova.ap_ \
+ : D:\mobile\phonegap\hairsalon\platforms\android\res\drawable\icon.png \
+D:\mobile\phonegap\hairsalon\platforms\android\res\drawable-hdpi\icon.png \
+D:\mobile\phonegap\hairsalon\platforms\android\res\drawable-ldpi\icon.png \
+D:\mobile\phonegap\hairsalon\platforms\android\res\drawable-mdpi\icon.png \
+D:\mobile\phonegap\hairsalon\platforms\android\res\drawable-xhdpi\icon.png \
+D:\mobile\phonegap\hairsalon\platforms\android\res\values\strings.xml \
+D:\mobile\phonegap\hairsalon\platforms\android\res\xml\config.xml \
+D:\mobile\phonegap\hairsalon\platforms\android\ant-build\res\drawable\icon.png \
+D:\mobile\phonegap\hairsalon\platforms\android\ant-build\res\drawable-hdpi\icon.png \
+D:\mobile\phonegap\hairsalon\platforms\android\ant-build\res\drawable-ldpi\icon.png \
+D:\mobile\phonegap\hairsalon\platforms\android\ant-build\res\drawable-mdpi\icon.png \
+D:\mobile\phonegap\hairsalon\platforms\android\ant-build\res\drawable-xhdpi\icon.png \
+D:\mobile\phonegap\hairsalon\platforms\android\assets\www \
+D:\mobile\phonegap\hairsalon\platforms\android\assets\_where-is-www.txt \
+D:\mobile\phonegap\hairsalon\platforms\android\assets\www\cordova.js \
+D:\mobile\phonegap\hairsalon\platforms\android\assets\www\cordova_plugins.js \
+D:\mobile\phonegap\hairsalon\platforms\android\assets\www\css \
+D:\mobile\phonegap\hairsalon\platforms\android\assets\www\img \
+D:\mobile\phonegap\hairsalon\platforms\android\assets\www\index.html \
+D:\mobile\phonegap\hairsalon\platforms\android\assets\www\js \
+D:\mobile\phonegap\hairsalon\platforms\android\assets\www\css\index.css \
+D:\mobile\phonegap\hairsalon\platforms\android\assets\www\img\logo.png \
+D:\mobile\phonegap\hairsalon\platforms\android\assets\www\js\index.js \
+D:\mobile\phonegap\hairsalon\platforms\android\ant-build\AndroidManifest.xml \
